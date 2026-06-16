@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prachi094gitb
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning DSA with JAVA
-- 💞️ I’m looking to collaborate on Android Development and AIML Projects
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me --> prachisinha009@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: AI fav. music-"Deep Learning" tracks
