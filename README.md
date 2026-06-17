@@ -1,4 +1,4 @@
-# Hi there, I'm Prachi Sinha 👋
+# Prachi Sinha 👋
 
 🎓 B.Tech CSE (AI & ML) Student at GL Bajaj Institute of Technology and Management  
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
