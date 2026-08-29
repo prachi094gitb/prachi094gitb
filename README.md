@@ -1,152 +1,152 @@
-# 👋 Hi, I'm Prachi Sinha
+<div align="center">
 
-🎓 **B.Tech CSE (AI & ML) Student at GL Bajaj Institute of Technology and Management**  
-🤖 **AI/ML & Data Science Enthusiast**  
-💡 Interested in building practical AI solutions for real-world problems  
-🚀 Exploring Machine Learning, Generative AI, RAG, and intelligent applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Prachi%20Sinha&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Gen%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-I enjoy taking an idea from **data → model → application** and turning it into something people can actually use.
+<a href="https://in.linkedin.com/in/prachi-sinha09"><img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiLz48L3N2Zz4=&logoColor=black&labelColor=7dd3fc" alt="Open to Work"/></a>
 
----
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+with+RAG+%2B+LangChain+%2B+GenAI;Turning+ML+models+into+real+products;ResearchMindAI+%7C+Vendor+Invoice+Intelligence;Always+learning%2C+always+shipping." alt="Typing SVG" /></a>
 
-## 🔭 What I'm Currently Exploring
+<br/>
 
-- 🤖 Machine Learning & Predictive Analytics
-- 🧠 Generative AI & Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 📊 Data Analysis & Visualization
-- 🗂️ Semantic Search & Vector Databases
-- 💻 AI-powered Application Development
-- ☁️ Cloud & AI Deployment
+![Profile Views](https://komarev.com/ghpvc/?username=prachi094gitb&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/prachi094gitb?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&logo=github)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 👩‍💻 Languages
-Python • Java • SQL
+## 🧠 Who I Am
 
-### 🤖 Machine Learning & AI
-Scikit-learn • TensorFlow • PyTorch • XGBoost  
-Machine Learning • Deep Learning • NLP • Computer Vision
+```typescript
+const prachi = {
+  title: "Aspiring AI/ML Engineer | Gen AI Enthusiast",
+  stack: [
+    "Java", "Python", "SQL",
+    "Machine Learning", "Deep Learning", "NLP",
+    "GenAI", "RAG", "LangChain",
+    "TensorFlow", "Scikit-learn",
+    "Pandas", "NumPy",
+    "Streamlit", "Git/GitHub"
+  ],
+  launchedProjects: [
+    "ResearchMindAI — RAG-powered research assistant",
+    "Vendor Invoice Intelligence System — automated invoice processing"
+  ],
+  certifications: [], // add yours here to keep this profile up to date
+  status: "Actively building in AI/ML & Generative AI",
+  openTo: ["AI/ML Engineer roles", "GenAI/LLM projects", "Collaboration & internships"]
+};
+```
 
-### 🧠 Generative AI
-RAG • LangChain • LLM Applications • Prompt Engineering  
-Embeddings • Semantic Search • ChromaDB • LLM-based Reranking
-
-### 📊 Data Science
-Pandas • NumPy • Matplotlib • Seaborn
-
-### 🌐 Application Development
-Streamlit • Flask
-
-### 🗄️ Databases
-MySQL • SQLite • ChromaDB
-
-### 🛠️ Tools & Platforms
-Git • GitHub • VS Code • AWS
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🔬 ResearchMind AI
+### 🔎 ResearchMindAI
 
-**An Evidence-Grounded GenAI Research Assistant for Academic Papers**
+AI-powered research assistant using RAG to retrieve, analyze, and generate grounded answers from research documents.
 
-Built a RAG-powered research assistant that helps users:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi094gitb&repo=ResearchMindAI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="ResearchMindAI"/>
+</div>
 
-- 📄 Upload and process multiple research papers
-- 🔎 Search papers using semantic retrieval
-- 💬 Ask questions using natural language
-- 📊 Compare multiple research papers
-- 🔍 Identify research gaps, limitations, and future directions
-- 🧠 Generate evidence-grounded responses
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Core Technique | Retrieval-Augmented Generation (RAG) |
+| LLM Orchestration | LangChain |
+| ML/DL | TensorFlow, Scikit-learn |
+| Data Handling | Pandas, NumPy |
+| Interface | Streamlit |
 
-**Tech:** Python • Streamlit • LangChain • ChromaDB • Hugging Face Embeddings • Groq • Llama 3.3 70B • RAG
+🔗 **Code:** [github.com/prachi094gitb/ResearchMindAI](https://github.com/prachi094gitb/ResearchMindAI)
 
----
+<br/>
 
-### 📦 Vendor Invoice Intelligence System
+### 🧾 Vendor Invoice Intelligence System
 
-**ML-powered invoice analysis and decision-support application**
+Intelligent invoice processing system that extracts, validates, and analyzes vendor invoice data to automate manual workflows.
 
-Built an end-to-end ML system that:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi094gitb&repo=Vendor-Invoice-Intelligence-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Vendor Invoice Intelligence System"/>
+</div>
 
-- 🚚 Predicts freight costs
-- 🚨 Identifies invoices requiring manual approval
-- 📊 Applies predictive analytics to invoice data
-- ⚡ Helps reduce manual invoice-processing effort
-- 🌐 Provides an interactive Streamlit interface
+| Layer | Technology |
+|---|---|
+| Language | Python, SQL |
+| Core Technique | NLP, Deep Learning |
+| Data Validation | Pandas, NumPy |
+| Interface | Streamlit |
 
-**Tech:** Python • Scikit-learn • Pandas • NumPy • Streamlit • SQL • SQLite
+🔗 **Code:** [github.com/prachi094gitb/Vendor-Invoice-Intelligence-System](https://github.com/prachi094gitb/Vendor-Invoice-Intelligence-System)
 
----
+<br/>
 
-### ❤️ Heart Disease Prediction
+> **Note:** if either repo name above differs from your actual GitHub repo slug, update the `repo=` parameter in the pin-card URL and the Code link, or the card/link will show a 404.
 
-**End-to-End Machine Learning Prediction System**
+<br/>
 
-Developed a supervised ML application that predicts heart disease risk using patient clinical information.
+## 🛠️ Tech Stack
 
-The project includes:
+**Languages**
 
-- 📊 Exploratory Data Analysis
-- 🧹 Data preprocessing & feature engineering
-- 🔄 One-Hot Encoding & feature scaling
-- 🤖 Comparison of multiple ML algorithms
-- 📈 Model evaluation using Accuracy & F1 Score
-- 💻 Interactive Streamlit deployment
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib • Streamlit
+![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=black)
 
----
+**AI / ML / Data**
 
-## 🏆 Achievements & Experience
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
 
-- 🧩 Solved **100+ DSA problems**
-- 🥇 **1st Prize Winner — College Ideathon**
-- 🤖 **AI-ML Virtual Internship — EduSkills**
-- ☕ **Java & Data Structures Certification**
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7dd3fc?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-7dd3fc?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7dd3fc?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-7dd3fc?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-7dd3fc?style=for-the-badge&logo=streamlit&logoColor=black)
 
----
+**Dev Tools**
 
-## 📚 Core Concepts
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
-**Machine Learning**  
-Supervised Learning • Classification • Regression • Model Evaluation • Feature Engineering
+<br/>
 
-**Data Science**  
-EDA • Data Cleaning • Visualization • Statistical Analysis • Predictive Analytics
+## 📊 GitHub Stats
 
-**Generative AI**  
-RAG • Embeddings • Vector Search • Prompt Engineering • Semantic Retrieval • LLM Applications
+<div align="center">
 
-**Computer Science**  
-Data Structures & Algorithms • OOP • DBMS • SQL
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prachi094gitb&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi094gitb&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&hide_border=false"/>
 
----
+<img src="https://streak-stats.demolab.com?user=prachi094gitb&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
 
-## 🎯 My Goal
+</div>
 
-To build **intelligent, practical, and impactful AI/ML solutions** while continuously improving my understanding of the technology behind them.
+### 🏆 Trophies
 
-I'm particularly interested in opportunities and collaborations involving:
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prachi094gitb&theme=nord&no-frame=true&no-bg=true&row=1&column=6"/>
+</div>
 
-**AI • Machine Learning • Data Science • Generative AI • RAG • NLP**
+### 📈 Contribution Activity
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi094gitb&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true"/>
+</div>
 
-## 📫 Let's Connect
+<br/>
 
-💼 **LinkedIn:** [linkedin.com/in/prachi-sinha09](https://www.linkedin.com/in/prachi-sinha09)
+## 🤝 Connect With Me
 
-💻 **GitHub:** [github.com/prachi094gitb](https://github.com/prachi094gitb)
+<div align="center">
 
-📧 **Email:** prachisinha009@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://in.linkedin.com/in/prachi-sinha09)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:prachisinha009@gmail.com)
 
----
+</div>
 
-### 💡 *Turning data into intelligent solutions, one project at a time.*
+<br/>
 
-⭐ If you find my projects interesting, feel free to explore my repositories and leave a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer" width="100%"/>
