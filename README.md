@@ -63,7 +63,7 @@ Built a RAG-powered research assistant that helps users:
 - 🔍 Identify research gaps, limitations, and future directions
 - 🧠 Generate evidence-grounded responses
 
-**Tech:** Python • Streamlit • LangChain • ChromaDB • Hugging Face Embeddings • Groq • Llama 3.3 70B • RAG
+**Tech:** Python • Streamlit • LangChain • ChromaDB • Hugging Face Embeddings • Groq • GPT-OSS 120B • RAG
 
 ---
 
